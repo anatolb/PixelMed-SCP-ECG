@@ -1,4 +1,4 @@
-PixelMed-Fork
+PixelMed-SCP-ECG
 =============
 
-Fork of the PixelMed Toolkit to allow for further development
+This is an extraction of the SCP-ECG code of PixelMed-Fork. 
